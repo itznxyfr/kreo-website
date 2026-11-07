@@ -10,22 +10,22 @@ function DiscordIcon({ size = 18 }) {
 
 const defaultTeam = [
   {
-    id: '1340627332116910140',
-    name: 'Mohsin.Exe',
-    tag: 'mohsin._exe',
+    id: '1418105970155851807',
+    name: 'Nutellim',
+    tag: 'zysnuc',
     role: 'FOUNDER & LEAD DEVELOPER',
     description:
-      'Architect behind Kreo high-fidelity music engine, multi-node Lavalink cluster orchestration, stream auto-recovery, and Discord infrastructure.',
+      'Architect behind SorixPlay high-fidelity music engine, multi-node Lavalink cluster orchestration, stream auto-recovery, and Discord infrastructure.',
     color: '#f43f5e',
     glowColor: 'rgba(244, 63, 94, 0.35)',
     avatar:
-      'https://cdn.discordapp.com/avatars/1340627332116910140/273036edeaafe2f968c5448bd7eb8e6b.webp?size=2048',
+      'https://cdn.discordapp.com/avatars/1418105970155851807/70c2c245a1e9eef579966429d9618caa.webp?size=128',
     banner: null,
     avatarDecoration:
       'https://cdn.discordapp.com/avatar-decoration-presets/a_a0ff7f9be49be57356dd3cf0d9c02605.png?size=2048',
     status: 'dnd',
     socials: {
-      discord: 'https://discord.com/users/1340627332116910140'
+      discord: 'https://discord.com/users/1418105970155851807'
     }
   }
 ];
