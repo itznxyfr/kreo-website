@@ -82,7 +82,7 @@ export default function Navbar({ activeSection, setActiveSection }) {
               >
                 <img
                   src="/avatar.webp"
-                  alt="Kreo Logo"
+                  alt="Sorix Logo"
                   className="nav-logo-img"
                   style={{ width: '36px', height: '36px' }}
                 />
