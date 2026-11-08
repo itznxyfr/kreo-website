@@ -8,7 +8,7 @@ export default function Navbar({ activeSection, setActiveSection }) {
   const location = useLocation();
 
   const inviteUrl =
-    'https://discord.com/oauth2/authorize?client_id=1533705359938682941&permissions=8&integration_type=0&scope=bot+applications.commands';
+    'https://discord.com/oauth2/authorize?client_id=1568758663634747502&permissions=8&integration_type=0&scope=bot+applications.commands';
 
   const handleNav = (targetId, e) => {
     if (e) e.preventDefault();
