@@ -19,7 +19,7 @@ const defaultTeam = [
     color: '#f43f5e',
     glowColor: 'rgba(244, 63, 94, 0.35)',
     avatar:
-      'https://cdn.discordapp.com/avatars/1418105970155851807/70c2c245a1e9eef579966429d9618caa.webp?size=128',
+      'https://cdn.discordapp.com/avatars/1418105970155851807/70c2c245a1e9eef579966429d9618caa.webp?size=2048',
     banner: null,
     avatarDecoration:
       'https://cdn.discordapp.com/avatar-decoration-presets/a_a0ff7f9be49be57356dd3cf0d9c02605.png?size=2048',
