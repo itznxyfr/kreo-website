@@ -16,7 +16,7 @@ export default function Hero() {
         {/* Glowing Pill Badge */}
         <div className="pill-badge glass-panel flex-center hover-glow">
           <span className="pulse-dot"></span>
-          Kreo v2.0 is Live • Studio Lossless Audio
+          SorixPlay v1.0 is Live • Studio Lossless Audio
         </div>
 
         {/* Hero Title */}
